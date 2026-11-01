@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fcc-regulations",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "FCC Regulations MCP — US Federal Communications Commission rules (47 CFR).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "fcc-regulations",
     "gatewaySlug": "fcc-regulations",
-    "sourceHash": "v1-25d2d8d67ac34f101e3f5f1ad292b912d2aeeee34e0b669d8c431bece7f16c21",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-20644ae69028c08a27523c0d93bf7c2adfc52f925547cdfd0c234b8e04200ce9",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
